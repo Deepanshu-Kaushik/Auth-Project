@@ -1,4 +1,4 @@
-# Authorization Website
+# My OAuth
 
 This project creates an authorization website where users can register their own apps to get client ID and secret, and then login through the application. It's similar to the 'login through Google' feature but with its own authentication system.
 
