@@ -55,7 +55,7 @@ The frontend of this project is built with Next.js, a React framework for buildi
 
    ```
 
-3. Open your browser and navigate to http://localhost:3000 to access the Github Dashboard.
+3. Open your browser and navigate to http://localhost:3000 to access the Authorization Website.
 
 ### Technologies Used
 
